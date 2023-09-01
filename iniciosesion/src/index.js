@@ -10,11 +10,11 @@ import TodoList from './Componentes/Todolist/Todolist';
 const router = createBrowserRouter([
   {
     path: '/LoginSignUp',
-    element: <LoginSignUP /> // Asegúrate de utilizar el componente como un elemento JSX
+    element: <LoginSignUP /> 
   },
   {
     path: '/Tareas',
-    element: <TodoList /> // Asegúrate de utilizar el componente como un elemento JSX
+    element: <TodoList /> 
   }
 ]);
 
