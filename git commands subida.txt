@@ -1,0 +1,9 @@
+git init 
+
+git remote add origin (remote repository)
+
+git add (listar los packages a subir o usar git add . si estas en windows (???) )
+
+git commit -m ( agregar comentarios) 
+ 
+git push origin master
